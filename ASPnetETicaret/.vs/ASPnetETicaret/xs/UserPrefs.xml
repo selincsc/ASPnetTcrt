@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{7DA92E9A-AFF8-4985-8129-971F7B9E1897}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPnetETicaret/FirebaseDatabase.cs">
+    <Files>
+      <File FileName="ASPnetETicaret/Urunler.aspx.cs" Line="75" Column="10" />
+      <File FileName="ASPnetETicaret/Siparisler.aspx.designer.cs" />
+      <File FileName="ASPnetETicaret/Siparisler.aspx.cs" />
+      <File FileName="ASPnetETicaret/Firebase.cs" />
+      <File FileName="ASPnetETicaret/Urunler.aspx" />
+      <File FileName="ASPnetETicaret/Dashboard.master" />
+      <File FileName="ASPnetETicaret/FirebaseDatabase.cs" Line="15" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASPnetETicaret" expanded="True">
+            <Node name="ASPnetETicaret" expanded="True">
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="FirebaseDatabase.cs" selected="True" />
+              <Node name="Kategoriler.aspx" expanded="True" />
+              <Node name="Musteriler.aspx" expanded="True" />
+              <Node name="Siparisler.aspx" expanded="True" />
+              <Node name="Urunler.aspx" expanded="True" />
+              <Node name="UrunListele.aspx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ASPnetETicaret PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/bukefalos/Library/Caches/VisualStudio/8.0/Symbols/mono/mono/c621c35ffa03273dbfb83055c7587c6a6617295a</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
